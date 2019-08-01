@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Chris Parlette's Blog`,
+    title: `Crucial Considerations`,
     author: `Chris Parlette`,
     description: `A blog for the thoughts and ideas of Chris Parlette.`,
     siteUrl: `https://blog.parlette.org/`,

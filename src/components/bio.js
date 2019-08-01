@@ -54,8 +54,8 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives in Silver Spring, MD with 
-        his wife and dogs.  He enjoys speedcubing, gaming, technology, and powerlifting.
+        All posts written by <strong>{author}</strong>, who lives in Silver Spring, MD with 
+        his wife and dogs.  He enjoys speedcubing, gaming, technology, and powerlifting. 
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           You should follow him on Twitter
